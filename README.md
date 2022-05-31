@@ -1,6 +1,5 @@
 
-  ## Title
-  Password Generator
+  # Password Generator
 
   ## Description 
   Password Generator dynamically updated in HTML and CSS, powered by JavaScript.
@@ -14,7 +13,7 @@
   Click Generate Password, then answer prompts.
 
   ## Usage
-  Visit this link >
+  Visit this link > https://empathyrecoveryblitz.github.io/Password-Gen/
 
   ## Screenshot
 ![Generator Screenshot](assets\images\dq1MUL3cfZ.png)

@@ -1,6 +1,5 @@
 
-  ## Title
-  Password Generator
+  ## Password Generator
 
   ## Description 
   Password Generator dynamically updated in HTML and CSS, powered by JavaScript.

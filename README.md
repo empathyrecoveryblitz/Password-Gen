@@ -13,7 +13,7 @@
   Click Generate Password, then answer prompts.
 
   ## Usage
-  Visit this link >
+  Visit this link > https://empathyrecoveryblitz.github.io/Password-Gen/
 
   ## License
   MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
